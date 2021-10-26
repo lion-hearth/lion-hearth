@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hello 👋
 
-
-**lion-hearth/lion-hearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improve my skills to be able to help people in the future ...
 - 🌱 I’m currently learning HTML CSS and  Javascrpit ...
