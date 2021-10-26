@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on improve my skills to be able to help people in the future ...
-- 🌱 I’m currently learning HTML CSS and  Javascrpit ...
-- 
+- 🌱 I’m currently learning HTML CSS and  Javascript ...
 - 👯 I’m looking to collaborate on projects that transform poples lives
 - 😄 Pronouns: He
 - 👨‍💻 I'm studying at Rockseat 
