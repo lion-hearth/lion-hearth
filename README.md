@@ -1,5 +1,5 @@
 
-### Hello Word! I'm Richard Melo and this is my profile here in github!!
+### Hello World! I'm Richard Melo and this is my profile here in github!!
 Web Development student
 <br>
 
