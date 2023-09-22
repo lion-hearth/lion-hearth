@@ -12,7 +12,9 @@ Web Development student
 
 -  I’m currently working on improve my skills to be able to help people in the future ...
 
-- 👨‍💻 I am currently studying at Rocketseat
+- 👨‍💻 I am currently studying at Udemy
+
+- I typically refer to myself as an Autodidact 🤔
 
 - 🙍‍♂️ Pronouns: He
 
@@ -20,8 +22,9 @@ Web Development student
 
  <div>
   <a href="https://github.com/lion-hearth">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lion-hearth&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lion-hearth&layout=compact&langs_count=7&theme=dark"/>
+   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  
 </div>
 <br>
 
