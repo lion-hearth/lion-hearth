@@ -23,12 +23,16 @@ Web Development student
  <div>
   <a href="https://github.com/lion-hearth">
    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![ Lion Hearh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
   
 </div>
 <br>
 
-  
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+<br>
 
   
 ### Language and Tools
