@@ -8,7 +8,7 @@ Web Development student
 
 
 ### About me
-- 🌱 HTML CSS and  Javascript
+- 🌱 HTML CSS Javascript & Java
 
 -  I’m currently working on improve my skills to be able to help people in the future ...
 
