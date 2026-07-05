@@ -56,7 +56,7 @@ Web Development student
 
   
 <div>
- <div align="center">
+ <div align="left">
   <a href="mailto:lionhearth1337@outlook.com">
     <img src="https://img.shields.io/badge/✉️_Email-555555?style=for-the-badge" />
   </a>
