@@ -57,5 +57,5 @@ Web Development student
   
 <div>
  
-  <a href = "mailto:lionhearth1337@outlook.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lionhearth1337@outlook.com"></a> 
 </div>
